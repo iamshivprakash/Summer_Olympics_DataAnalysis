@@ -12,3 +12,6 @@ Detailed Analysis of Summer Olympics Data
   <li><h4>Which event is most popular in terms on number of players? (Top 5)</h4></li>
   <li><h4>Which sport is having most female Gold Medalists? (Top 5)</h4></li>
 </ol>
+<hr>
+<h3>About Me</h3>
+<p>Myself Shiv Prakash. I am a Python Problem Solving and ML/AI enthusiast.</p>
